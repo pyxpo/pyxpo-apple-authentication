@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "nativeContract": 1,
+  "name": "apple-authentication",
+  "native": "AppleAuthentication",
+  "ios": {
+    "classes": ["AppleAuthenticationModule"]
+  }
+}
