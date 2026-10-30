@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "nativeContract": 1,
+  "nativeContract": 2,
   "name": "apple-authentication",
   "native": "AppleAuthentication",
   "ios": {
